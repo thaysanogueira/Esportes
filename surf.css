@@ -1,0 +1,16 @@
+body{
+	background-color: #009ACD;
+	color: #00FF7F;
+	font-size: 15px;
+	margin-left: 5px;
+	margin-top: 10px;
+	font-family: arial;
+	text-align: justify;
+
+	}
+
+h1{
+	text-align: right;
+	text-transform: uppercase;
+		font-size: 30px;
+}
